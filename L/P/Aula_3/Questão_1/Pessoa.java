@@ -1,4 +1,4 @@
-package Aula_3.Questão_1;
+package L.P.Aula_3.Questão_1;
 
 public class Pessoa {
     int idade;

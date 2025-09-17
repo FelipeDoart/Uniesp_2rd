@@ -2,7 +2,7 @@ package Aula_3.Questão_2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/*
 public class Interface {
     public static void main(String[] args){
         boolean pr = true;
@@ -45,6 +45,7 @@ public class Interface {
             case 2:
                 System.out.println(c.subt(n1,n2));
         }
-    */
+
     }
 }
+*/

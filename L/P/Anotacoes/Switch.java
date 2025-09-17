@@ -1,3 +1,5 @@
+package L.P.Anotacoes;
+
 import java.util.Scanner;
 
 public class Switch {

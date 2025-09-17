@@ -1,4 +1,4 @@
-package L.P.src.Aula_3.Atividade_POO.Questão_1;
+package L.P.Ativ_poo.Quest1;
 
 public class Funcionario {
     String nome;
