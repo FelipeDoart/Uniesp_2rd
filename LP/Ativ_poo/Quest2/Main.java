@@ -1,4 +1,4 @@
-package L.P.Ativ_poo.Quest2;
+package LP.Ativ_poo.Quest2;
 /*
 Questão 2 – Sistema Bancário
 Elabore um programa que simule um sistema bancário. Inicialmente o saldo está zerado, mas o cliente pode

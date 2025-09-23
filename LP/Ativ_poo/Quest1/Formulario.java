@@ -1,4 +1,4 @@
-package L.P.Ativ_poo.Quest1;
+package LP.Ativ_poo.Quest1;
 
 /*O programa de uma indústria realiza a folha mensal de pagamentos de seus empregados baseando-se nas
 seguintes regras:
