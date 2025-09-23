@@ -29,6 +29,7 @@ public class Conta1 {
 
     }
     public void transferir(){
-        c2.saldo = (saldo - valor) + c2.saldo;
+        saldo = saldo - valor;
+        c2.saldo = valor + c2.saldo;
     }
 }
